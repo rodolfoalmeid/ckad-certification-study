@@ -5,6 +5,7 @@
 
 ## Replica set
 Yaml for replica set
+
 ![alt text](image.png)
 
 ### How to increase the number of replicas
